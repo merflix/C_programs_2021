@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1618814932 source:/home/meichen/IT-Informatique/Programmation/Programmation-C/CircularBuffer/circular_buffer.c
+	<stdio.h>
+	<stdlib.h>
+
